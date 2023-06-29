@@ -1,5 +1,3 @@
-# import sys
-# sys.path.insert(0, 'tiktokgs/packages')
 import random
 import shutil
 import time
