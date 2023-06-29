@@ -7,7 +7,7 @@
 <p>Then, execute main.py in your terminal</p>
 <code>python main.py</code>
 <h2>Terminal</h2>
-<p>Used the path where your video is located.</p>
+<p>Use the path where your video is located.</p>
 <p>[Exemple] : C:\Users\videos\tiktok.mp4</p>
 <code>Copy the path of the video you wish to convert: </code>
 <h2>Output</h2>
