@@ -92,7 +92,7 @@ def imgtovideo(pathimg,fps):
 	print("PREPARE VIDEO...")
 	letters = string.ascii_lowercase
 	name = ''.join(random.choice(letters) for i in range(5))
-	video_name = 'VIDEO_'+name+'.avi'
+	video_name = './videos/'+name+'.avi'
 	arr = []
 	arr2 = []
 	for v in os.listdir(pathimg):
@@ -158,7 +158,7 @@ def backgroundAdding(path):
 try:
 	vid = input("Copy the path of the video you wish to convert: ")
 	downloadFrames(vid)
-	print("EVERYTHING IS DONE!")
+	print("YOUR VIDEO IS READY. TAKE A LOOK IN THE VIDEO FOLDER")
 except:
 	print("Oops, the video you chose did not work.")
 #END
