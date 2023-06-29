@@ -1,10 +1,10 @@
 # tiktokgreenscreen
 <p>Tiktokgreenscreen does what its name suggests. It takes a tiktok video and replaces the background with a green screen.</p>
 <h2>Getting started</h2>
-<p>First, please install the mandatory requirements</p>
+<p>First, please install the mandatory requirements.</p>
 <code>pip install -r requirements.txt</code>
 <br><br>
-<p>Then, execute main.py</p>
+<p>Then, execute main.py in your terminal</p>
 <code>python main.py</code>
 <h2>Terminal</h2>
 <p>Used the path where your video is located.</p>
