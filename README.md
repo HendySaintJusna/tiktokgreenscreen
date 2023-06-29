@@ -11,5 +11,6 @@
 <p>[Exemple] : C:\Users\videos\tiktok.mp4</p>
 <code>Copy the path of the video you wish to convert: </code>
 <h2>Output</h2>
-INPUT (https://github.com/HendySaintJusna/tiktokgreenscreen/assets/35276728/61cba2ab-fcb2-44c8-84ed-b1c68b447d14)
+INPUT (https://github.com/HendySaintJusna/tiktokgreenscreen/assets/35276728/61cba2ab-fcb2-44c8-84ed-b1c68b447d14) 
+<BR>
 OUTPUT (https://github.com/HendySaintJusna/tiktokgreenscreen/assets/35276728/8984c498-e41e-49bd-976a-9e60d0ebee41)
