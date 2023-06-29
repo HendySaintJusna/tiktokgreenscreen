@@ -92,7 +92,7 @@ def imgtovideo(pathimg,fps):
 	print("PREPARE VIDEO...")
 	letters = string.ascii_lowercase
 	name = ''.join(random.choice(letters) for i in range(5))
-	video_name = name+'.avi'
+	video_name = 'VIDEO_'+name+'.avi'
 	arr = []
 	arr2 = []
 	for v in os.listdir(pathimg):
