@@ -15,7 +15,7 @@ def downloadFrames(vid):
 
 # Remove background from frames
 def removeBackground(folderpath):
-	print("REMOVE IMAGES BACKGROUNDS...")
+	print("TRACKING IMAGES...")
 	x = 0
 	perc = 0
 	seconds = 0
@@ -46,7 +46,7 @@ def removeBackground(folderpath):
 			pass
 		else:
 			perc = round(x/len(arr2)*100)
-			print("[STEP 2/4]PERCENTAGE  BACKGROUNDS REMOVED: "+ str(perc) + " %")
+			print("[STEP 2/4]TRACKING IMAGES: "+ str(perc) + " %")
 
 
 
