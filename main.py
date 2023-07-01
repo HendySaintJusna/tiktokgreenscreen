@@ -117,7 +117,7 @@ def imgtovideo(pathimg,fps):
 				pass
 			else:
 				perc = round((x/len(images))*100)
-				print("[STEP 3/4]VIDEO RESTORED: "+ str(perc) + " %")
+				print("[STEP 4/4]VIDEO RESTORED: "+ str(perc) + " %")
 		x+=1
 	cv2.destroyAllWindows()
 	video.release()
@@ -146,7 +146,7 @@ def backgroundAdding(path):
 			pass
 		else:
 			perc = round((count/len(all_folder_file))*100)
-			print("[STEP 4/4]GREEN SCREEN ADDED : " + str(perc) + " %")
+			print("[STEP 3/4]GREEN SCREEN ADDED : " + str(perc) + " %")
 		count += 1
 
 
